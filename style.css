@@ -37,11 +37,11 @@ nav{
     width: 100px;
 }
 .container{
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     color: white;
+    background-size: auto;
 }
 .left{
     flex-basis: 50%;
